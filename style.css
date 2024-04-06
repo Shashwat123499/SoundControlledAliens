@@ -1,0 +1,49 @@
+body {
+    font-family: "Truculenta", sans-serif;
+    background-color: pink;
+}
+
+.copy_right_footer {
+    position: fixed;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    background-color: white;
+    color: grey;
+    font-family: "Kalam", cursive;
+    bottom: 0px;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+.header_div {
+    background-color: white;
+    color: red;
+}
+
+ .header_div p{
+    font-family: "Truculenta", sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 22px;
+    font-weight: bold;
+ }
+.main_div button {
+    font-family: "Truculenta", sans-serif;
+    font-size: 22px;
+    margin-top: 30px;
+    width: 180px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.main_div h3 {
+    font-size: 26px;
+}
+.main_div h4 {
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 44px;
+}
+
